@@ -197,7 +197,7 @@ Maintainers will review your pull request. They may ask for changes to be made b
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 
 ## Thank You
