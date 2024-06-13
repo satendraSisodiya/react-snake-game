@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+@font-face{
+    font-family: "custom";
+    src:local("PressStart2P-Regular")
+    url("./assets/Fonts/Press_Start_2P/PressStart2P-Regular.ttf") format('truetype')
+}
+}
